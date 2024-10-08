@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="./src/style.css"/>
+  <title>Face Landmarker</title>
+</head>
+<body>
+  <input type="file" id="inputFile" accept="image/*">
+  <p id="distance">Distância estimada do nariz: -- z</p>
+  <p id="orientation">Orientação do rosto: --</p>
+
+  <canvas id="output" />
+  <script type="module" src="./dist/index.js"></script>
+</body>
+</html>

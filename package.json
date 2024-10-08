@@ -1,0 +1,22 @@
+{
+  "name": "05-media-pipe-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc && http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "@mediapipe/tasks-vision": "^0.10.17"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "values": [
+    {
+      "img": 1,
+      "name": "01-perfil-proximo",
+      "z-indez": -21.98
+    },
+    {
+      "img": 2,
+      "name": "02-perfil-direita",
+      "z-indez": -15.845
+    },
+    {
+      "img": 3,
+      "name": "03-perfil-esquerda",
+      "z-indez": -13.668
+    },
+    {
+      "img": 4,
+      "name": "04-perfil-meio-distante",
+      "z-indez": -15.787
+    },
+    {
+      "img": 5,
+      "name": "05-perfil-meio-distante-2",
+      "z-indez": -11.129
+    },
+    {
+      "img": 6,
+      "name": "06-perfil-meio-distante-3",
+      "z-indez": -10.092
+    },
+    {
+      "img": 7,
+      "name": "07-esquerda-meio-distante",
+      "z-indez": -8.264
+    },
+    {
+      "img": 8,
+      "name": "08-perfil-mais-distante",
+      "z-indez": -10.407
+    },
+    {
+      "img": 9,
+      "name": "09-baixo-mais-distante",
+      "z-indez": -7.735
+    },
+    {
+      "img": 10,
+      "name": "10-cima-mais-distante",
+      "z-indez": -7.186
+    },
+    {
+      "img": 11,
+      "name": "11-direita-mais-distante",
+      "z-indez": -7.792
+    },
+    {
+      "img": 12,
+      "name": "12-perfil-distante",
+      "z-indez": -9.349
+    },
+    {
+      "img": 13,
+      "name": "13-perfil-mais-mais-distante",
+      "z-indez": -6.646
+    },
+    {
+      "img": 14,
+      "name": "14-perfil-max-distancia",
+      "z-indez": -4.971
+    }
+  ]
+}
